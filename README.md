@@ -4,12 +4,12 @@ A specialized Python tool that identifies and analyzes Adverse Drug Reactions (A
 
 ## Features
 
-- 🔍 **Automated Reddit Scraping** - Collects posts and comments from multiple ADHD subreddits
-- 💊 **Medication Detection** - Identifies 143+ medications including brand names, generics, and slang terms
-- 🧠 **ADR Pattern Matching** - Context-window based NLP extraction around medication mentions
-- 📊 **Sentiment Analysis** - Calculates sentiment scores for medication experiences
-- 📈 **Comprehensive Visualizations** - Generates 6 different analytical charts
-- 📁 **Multi-format Export** - Outputs data in JSON and CSV formats
+ **Automated Reddit Scraping** - Collects posts and comments from multiple ADHD subreddits
+ **Medication Detection** - Identifies 143+ medications including brand names, generics, and slang terms
+ **ADR Pattern Matching** - Context-window based NLP extraction around medication mentions
+ **Sentiment Analysis** - Calculates sentiment scores for medication experiences
+ **Comprehensive Visualizations** - Generates 6 different analytical charts
+ **Multi-format Export** - Outputs data in JSON and CSV formats
 
 ## Installation
 
