@@ -157,35 +157,17 @@ The predominantly negative sentiment indicates that most mentions occur in the c
 
 ## Visualizations
 
-### ADR Mentions Over Time
+<img width="3569" height="2367" alt="Image" src="https://github.com/user-attachments/assets/b848cfe2-7909-4728-b061-4b2651ffdc67" />
 
-![ADR Timeline](adr_analysis_output/visualizations/adr_timeline.png)
-_Timeline showing ADR mentions over time for the top 10 medications_
+<img width="4776" height="2368" alt="Image" src="https://github.com/user-attachments/assets/fc4eccf1-c40a-4db5-a732-6b0695de3e0a" />
 
-### Most Common ADR Categories
+<img width="4170" height="1767" alt="Image" src="https://github.com/user-attachments/assets/b7edebe7-1892-41d3-a95c-6c29af673755" />
 
-![ADR Categories](adr_analysis_output/visualizations/adr_categories.png)
-_Bar chart of the 15 most frequently mentioned ADR categories_
+<img width="3572" height="1768" alt="Image" src="https://github.com/user-attachments/assets/0b137d86-1ca1-449f-8531-8b489316c0f0" />
 
-### Symptom Heatmap by Medication
+<img width="2970" height="1768" alt="Image" src="https://github.com/user-attachments/assets/bc36993e-40de-4e0c-b757-a838f69003cd" />
 
-![Symptom Heatmap](adr_analysis_output/visualizations/symptom_heatmap.png)
-_Heatmap showing the relationship between top medications and common symptoms_
-
-### ADR Severity Distribution
-
-![Severity Distribution](adr_analysis_output/visualizations/severity_distribution.png)
-_Distribution of ADR mentions by severity level (severe, moderate, mild)_
-
-### Sentiment Analysis by Medication
-
-![Sentiment Analysis](adr_analysis_output/visualizations/sentiment_analysis.png)
-_Box plot showing sentiment score distribution for top 10 medications_
-
-### Overall Monthly Trend
-
-![Monthly Trend](adr_analysis_output/visualizations/monthly_trend.png)
-_Aggregate trend of all ADR mentions over time_
+<img width="3883" height="2970" alt="Image" src="https://github.com/user-attachments/assets/84c7d169-eea6-4613-864d-87287367b5a2" />
 
 ## Technical Details
 
